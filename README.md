@@ -11,3 +11,7 @@ were used to generate the 175+ cards.
 
 ### Things I've Learnt
 - Using PIL to render text on images.
+
+
+### Preview
+![Generated Card Preview](example.png?raw=true)
